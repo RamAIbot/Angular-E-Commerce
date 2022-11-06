@@ -1,0 +1,495 @@
+# Current time Sun Nov  6 18:10:44 2022
+# Program = vsim
+# Id = "2020.4_1"
+# Version = "2020.11"
+# Date = "Nov  6 2020"
+# Platform = "linux"
+# Signature = 5098354e56ad1a55ea86d1698a016d19
+# 0    0xf5abb9b3: '/afs/unity.ncsu.edu/users/r/rsekani/bin/ece748/project2b/uvmf_template_output/project_benches/decode/sim/../../../verification_ip/environment_packages/decode_env_pkg/src/decode_environment.svh:67'
+# 1    0xf5606191: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_common_phases.svh:54'
+# 2    0xf56042d1: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:111'
+# 3    0xf5603877: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:78'
+# 4    0xf5603cde: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:95'
+# 5    0xf5603cde: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:95'
+# 6    0xf55f5b0d: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1156'
+# 7    0xf55f4b77: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1847'
+# 8    0x09e4983d: '<unknown (@0x9e4983d)>'
+# 9    0x082d7848: '<unknown (@0x82d7848)>'
+# 10   0x08199e86: '<unknown (@0x8199e86)>'
+# 11   0x0830e7ed: '<unknown (@0x830e7ed)>'
+# 12   0x088026d8: '<unknown (@0x88026d8)>'
+# 13   0x088079a0: '<unknown (@0x88079a0)>'
+# 14   0x0880921f: '<unknown (@0x880921f)>'
+# 15   0x08ab1fd7: '<unknown (@0x8ab1fd7)>'
+# 16   0x0a28891b: '<unknown (@0xa28891b)>'
+# 17   0x0a287f0a: '<unknown (@0xa287f0a)>'
+# 18   0x0a28d493: '<unknown (@0xa28d493)>'
+# 19   0x0a28d5aa: '<unknown (@0xa28d5aa)>'
+# 20   0x0a28ec51: '<unknown (@0xa28ec51)>'
+# 21   0x0a28efc6: '<unknown (@0xa28efc6)>'
+# 22   0x08d11d57: '<unknown (@0x8d11d57)>'
+# 23   0x0a336cc7: '<unknown (@0xa336cc7)>'
+# 24   0x0a390f9c: '<unknown (@0xa390f9c)>'
+# 25   0x0a393e08: '<unknown (@0xa393e08)>'
+# 26   0x0a3501c8: '<unknown (@0xa3501c8)>'
+# 27   0x0a3504d5: '<unknown (@0xa3504d5)>'
+# 28   0x0a14eb75: '<unknown (@0xa14eb75)>'
+# 29   0x087cffdf: '<unknown (@0x87cffdf)>'
+# 30   0x0866ff68: '<unknown (@0x866ff68)>'
+# End of Stack Trace
+
+
+# Current time Sun Nov  6 18:17:28 2022
+# Program = vsim
+# Id = "2020.4_1"
+# Version = "2020.11"
+# Date = "Nov  6 2020"
+# Platform = "linux"
+# Signature = 5098354e56ad1a55ea86d1698a016d19
+# 0    0xf5abb993: '/afs/unity.ncsu.edu/users/r/rsekani/bin/ece748/project2b/uvmf_template_output/project_benches/decode/sim/../../../verification_ip/environment_packages/decode_env_pkg/src/decode_environment.svh:67'
+# 1    0xf5606161: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_common_phases.svh:54'
+# 2    0xf56042a1: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:111'
+# 3    0xf5603847: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:78'
+# 4    0xf5603cae: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:95'
+# 5    0xf5603cae: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:95'
+# 6    0xf55f5add: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1156'
+# 7    0xf55f4b47: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1847'
+# 8    0x09e4983d: '<unknown (@0x9e4983d)>'
+# 9    0x082d7848: '<unknown (@0x82d7848)>'
+# 10   0x08199e86: '<unknown (@0x8199e86)>'
+# 11   0x0830e7ed: '<unknown (@0x830e7ed)>'
+# 12   0x088026d8: '<unknown (@0x88026d8)>'
+# 13   0x088079a0: '<unknown (@0x88079a0)>'
+# 14   0x0880921f: '<unknown (@0x880921f)>'
+# 15   0x08ab1fd7: '<unknown (@0x8ab1fd7)>'
+# 16   0x0a28891b: '<unknown (@0xa28891b)>'
+# 17   0x0a287f0a: '<unknown (@0xa287f0a)>'
+# 18   0x0a28d493: '<unknown (@0xa28d493)>'
+# 19   0x0a28d5aa: '<unknown (@0xa28d5aa)>'
+# 20   0x0a28ec51: '<unknown (@0xa28ec51)>'
+# 21   0x0a28efc6: '<unknown (@0xa28efc6)>'
+# 22   0x08d11d57: '<unknown (@0x8d11d57)>'
+# 23   0x0a336cc7: '<unknown (@0xa336cc7)>'
+# 24   0x0a390f9c: '<unknown (@0xa390f9c)>'
+# 25   0x0a393e08: '<unknown (@0xa393e08)>'
+# 26   0x0a3501c8: '<unknown (@0xa3501c8)>'
+# 27   0x0a3504d5: '<unknown (@0xa3504d5)>'
+# 28   0x0a14eb75: '<unknown (@0xa14eb75)>'
+# 29   0x087cffdf: '<unknown (@0x87cffdf)>'
+# 30   0x0866ff68: '<unknown (@0x866ff68)>'
+# End of Stack Trace
+
+
+# Current time Sun Nov  6 18:18:14 2022
+# Program = vsim
+# Id = "2020.4_1"
+# Version = "2020.11"
+# Date = "Nov  6 2020"
+# Platform = "linux"
+# Signature = 5098354e56ad1a55ea86d1698a016d19
+# 0    0xf5abb9b3: '/afs/unity.ncsu.edu/users/r/rsekani/bin/ece748/project2b/uvmf_template_output/project_benches/decode/sim/../../../verification_ip/environment_packages/decode_env_pkg/src/decode_environment.svh:67'
+# 1    0xf5606191: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_common_phases.svh:54'
+# 2    0xf56042d1: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:111'
+# 3    0xf5603877: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:78'
+# 4    0xf5603cde: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:95'
+# 5    0xf5603cde: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:95'
+# 6    0xf55f5b0d: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1156'
+# 7    0xf55f4b77: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1847'
+# 8    0x09e4983d: '<unknown (@0x9e4983d)>'
+# 9    0x082d7848: '<unknown (@0x82d7848)>'
+# 10   0x08199e86: '<unknown (@0x8199e86)>'
+# 11   0x0830e7ed: '<unknown (@0x830e7ed)>'
+# 12   0x088026d8: '<unknown (@0x88026d8)>'
+# 13   0x088079a0: '<unknown (@0x88079a0)>'
+# 14   0x0880921f: '<unknown (@0x880921f)>'
+# 15   0x08ab1fd7: '<unknown (@0x8ab1fd7)>'
+# 16   0x0a28891b: '<unknown (@0xa28891b)>'
+# 17   0x0a287f0a: '<unknown (@0xa287f0a)>'
+# 18   0x0a28d493: '<unknown (@0xa28d493)>'
+# 19   0x0a28d5aa: '<unknown (@0xa28d5aa)>'
+# 20   0x0a28ec51: '<unknown (@0xa28ec51)>'
+# 21   0x0a28efc6: '<unknown (@0xa28efc6)>'
+# 22   0x08d11d57: '<unknown (@0x8d11d57)>'
+# 23   0x0a336cc7: '<unknown (@0xa336cc7)>'
+# 24   0x0a390f9c: '<unknown (@0xa390f9c)>'
+# 25   0x0a393e08: '<unknown (@0xa393e08)>'
+# 26   0x0a3501c8: '<unknown (@0xa3501c8)>'
+# 27   0x0a3504d5: '<unknown (@0xa3504d5)>'
+# 28   0x0a14eb75: '<unknown (@0xa14eb75)>'
+# 29   0x087cffdf: '<unknown (@0x87cffdf)>'
+# 30   0x0866ff68: '<unknown (@0x866ff68)>'
+# End of Stack Trace
+
+
+# Current time Sun Nov  6 18:20:56 2022
+# Program = vsim
+# Id = "2020.4_1"
+# Version = "2020.11"
+# Date = "Nov  6 2020"
+# Platform = "linux"
+# Signature = 5098354e56ad1a55ea86d1698a016d19
+# 0    0xf5af8053: '/afs/unity.ncsu.edu/users/r/rsekani/bin/ece748/project2b/uvmf_template_output/project_benches/decode/sim/../../../verification_ip/environment_packages/decode_env_pkg/src/decode_environment.svh:67'
+# 1    0xf563cf81: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_common_phases.svh:54'
+# 2    0xf563af4d: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:111'
+# 3    0xf563a477: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:78'
+# 4    0xf563a911: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:95'
+# 5    0xf563a911: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:95'
+# 6    0xf562bb11: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1156'
+# 7    0xf562aad5: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1847'
+# 8    0x09e4983d: '<unknown (@0x9e4983d)>'
+# 9    0x082d7848: '<unknown (@0x82d7848)>'
+# 10   0x08199e86: '<unknown (@0x8199e86)>'
+# 11   0x0830e7ed: '<unknown (@0x830e7ed)>'
+# 12   0x088026d8: '<unknown (@0x88026d8)>'
+# 13   0x088079a0: '<unknown (@0x88079a0)>'
+# 14   0x0880921f: '<unknown (@0x880921f)>'
+# 15   0x08ab1fd7: '<unknown (@0x8ab1fd7)>'
+# 16   0x0a28891b: '<unknown (@0xa28891b)>'
+# 17   0x0a287f0a: '<unknown (@0xa287f0a)>'
+# 18   0x0a28d493: '<unknown (@0xa28d493)>'
+# 19   0x0a28d5aa: '<unknown (@0xa28d5aa)>'
+# 20   0x0a28ec51: '<unknown (@0xa28ec51)>'
+# 21   0x0a28efc6: '<unknown (@0xa28efc6)>'
+# 22   0x08d11d57: '<unknown (@0x8d11d57)>'
+# 23   0x0a336cc7: '<unknown (@0xa336cc7)>'
+# 24   0x0a390f9c: '<unknown (@0xa390f9c)>'
+# 25   0x0a393e08: '<unknown (@0xa393e08)>'
+# 26   0x0a3501c8: '<unknown (@0xa3501c8)>'
+# 27   0x0a3504d5: '<unknown (@0xa3504d5)>'
+# 28   0x0a14eb75: '<unknown (@0xa14eb75)>'
+# 29   0x087cffdf: '<unknown (@0x87cffdf)>'
+# 30   0x0866ff68: '<unknown (@0x866ff68)>'
+# End of Stack Trace
+
+
+# Current time Sun Nov  6 18:29:09 2022
+# Program = vsim
+# Id = "2020.4_1"
+# Version = "2020.11"
+# Date = "Nov  6 2020"
+# Platform = "linux"
+# Signature = 5098354e56ad1a55ea86d1698a016d19
+# 0    0xf5ac3ed5: '/afs/unity.ncsu.edu/users/r/rsekani/bin/ece748/project2b/uvmf_template_output/project_benches/decode/sim/../../../verification_ip/environment_packages/decode_env_pkg/src/decode_env_configuration.svh:70'
+# 1    0xf5abc310: '/afs/unity.ncsu.edu/users/r/rsekani/bin/ece748/project2b/uvmf_template_output/project_benches/decode/sim/../../../verification_ip/environment_packages/decode_env_pkg/src/decode_environment.svh:76'
+# 2    0xf5606121: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_common_phases.svh:54'
+# 3    0xf5604261: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:111'
+# 4    0xf5603807: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:78'
+# 5    0xf5603c6e: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:95'
+# 6    0xf5603c6e: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:95'
+# 7    0xf55f5a9d: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1156'
+# 8    0xf55f4b07: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1847'
+# 9    0x09e4983d: '<unknown (@0x9e4983d)>'
+# 10   0x082d7848: '<unknown (@0x82d7848)>'
+# 11   0x08199e86: '<unknown (@0x8199e86)>'
+# 12   0x0830e7ed: '<unknown (@0x830e7ed)>'
+# 13   0x088026d8: '<unknown (@0x88026d8)>'
+# 14   0x088079a0: '<unknown (@0x88079a0)>'
+# 15   0x0880921f: '<unknown (@0x880921f)>'
+# 16   0x08ab1fd7: '<unknown (@0x8ab1fd7)>'
+# 17   0x0a28891b: '<unknown (@0xa28891b)>'
+# 18   0x0a287f0a: '<unknown (@0xa287f0a)>'
+# 19   0x0a28d493: '<unknown (@0xa28d493)>'
+# 20   0x0a28d5aa: '<unknown (@0xa28d5aa)>'
+# 21   0x0a28ec51: '<unknown (@0xa28ec51)>'
+# 22   0x0a28efc6: '<unknown (@0xa28efc6)>'
+# 23   0x08d11d57: '<unknown (@0x8d11d57)>'
+# 24   0x0a336cc7: '<unknown (@0xa336cc7)>'
+# 25   0x0a390f9c: '<unknown (@0xa390f9c)>'
+# 26   0x0a393e08: '<unknown (@0xa393e08)>'
+# 27   0x0a3501c8: '<unknown (@0xa3501c8)>'
+# 28   0x0a3504d5: '<unknown (@0xa3504d5)>'
+# 29   0x0a14eb75: '<unknown (@0xa14eb75)>'
+# 30   0x087cffdf: '<unknown (@0x87cffdf)>'
+# 31   0x0866ff68: '<unknown (@0x866ff68)>'
+# End of Stack Trace
+
+
+# Current time Sun Nov  6 18:30:13 2022
+# Program = vsim
+# Id = "2020.4_1"
+# Version = "2020.11"
+# Date = "Nov  6 2020"
+# Platform = "linux"
+# Signature = 5098354e56ad1a55ea86d1698a016d19
+# 0    0xf5abb993: '/afs/unity.ncsu.edu/users/r/rsekani/bin/ece748/project2b/uvmf_template_output/project_benches/decode/sim/../../../verification_ip/environment_packages/decode_env_pkg/src/decode_environment.svh:67'
+# 1    0xf5606161: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_common_phases.svh:54'
+# 2    0xf56042a1: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:111'
+# 3    0xf5603847: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:78'
+# 4    0xf5603cae: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:95'
+# 5    0xf5603cae: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:95'
+# 6    0xf55f5add: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1156'
+# 7    0xf55f4b47: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1847'
+# 8    0x09e4983d: '<unknown (@0x9e4983d)>'
+# 9    0x082d7848: '<unknown (@0x82d7848)>'
+# 10   0x08199e86: '<unknown (@0x8199e86)>'
+# 11   0x0830e7ed: '<unknown (@0x830e7ed)>'
+# 12   0x088026d8: '<unknown (@0x88026d8)>'
+# 13   0x088079a0: '<unknown (@0x88079a0)>'
+# 14   0x0880921f: '<unknown (@0x880921f)>'
+# 15   0x08ab1fd7: '<unknown (@0x8ab1fd7)>'
+# 16   0x0a28891b: '<unknown (@0xa28891b)>'
+# 17   0x0a287f0a: '<unknown (@0xa287f0a)>'
+# 18   0x0a28d493: '<unknown (@0xa28d493)>'
+# 19   0x0a28d5aa: '<unknown (@0xa28d5aa)>'
+# 20   0x0a28ec51: '<unknown (@0xa28ec51)>'
+# 21   0x0a28efc6: '<unknown (@0xa28efc6)>'
+# 22   0x08d11d57: '<unknown (@0x8d11d57)>'
+# 23   0x0a336cc7: '<unknown (@0xa336cc7)>'
+# 24   0x0a390f9c: '<unknown (@0xa390f9c)>'
+# 25   0x0a393e08: '<unknown (@0xa393e08)>'
+# 26   0x0a3501c8: '<unknown (@0xa3501c8)>'
+# 27   0x0a3504d5: '<unknown (@0xa3504d5)>'
+# 28   0x0a14eb75: '<unknown (@0xa14eb75)>'
+# 29   0x087cffdf: '<unknown (@0x87cffdf)>'
+# 30   0x0866ff68: '<unknown (@0x866ff68)>'
+# End of Stack Trace
+
+
+# Current time Sun Nov  6 18:52:51 2022
+# Program = vsim
+# Id = "2020.4_1"
+# Version = "2020.11"
+# Date = "Nov  6 2020"
+# Platform = "linux"
+# Signature = 5098354e56ad1a55ea86d1698a016d19
+# 0    0xf5a91f03: '/afs/unity.ncsu.edu/users/r/rsekani/bin/ece748/project2b/uvmf_template_output/project_benches/decode/sim/../../../verification_ip/environment_packages/decode_env_pkg/src/decode_environment.svh:67'
+# 1    0xf55dc631: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_common_phases.svh:54'
+# 2    0xf55da771: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:111'
+# 3    0xf55d9d17: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:78'
+# 4    0xf55da17e: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:95'
+# 5    0xf55da17e: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:95'
+# 6    0xf55cbfad: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1156'
+# 7    0xf55cb017: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1847'
+# 8    0x09e4983d: '<unknown (@0x9e4983d)>'
+# 9    0x082d7848: '<unknown (@0x82d7848)>'
+# 10   0x08199e86: '<unknown (@0x8199e86)>'
+# 11   0x0830e7ed: '<unknown (@0x830e7ed)>'
+# 12   0x088026d8: '<unknown (@0x88026d8)>'
+# 13   0x088079a0: '<unknown (@0x88079a0)>'
+# 14   0x0880921f: '<unknown (@0x880921f)>'
+# 15   0x08ab1fd7: '<unknown (@0x8ab1fd7)>'
+# 16   0x0a28891b: '<unknown (@0xa28891b)>'
+# 17   0x0a287f0a: '<unknown (@0xa287f0a)>'
+# 18   0x0a28d493: '<unknown (@0xa28d493)>'
+# 19   0x0a28d5aa: '<unknown (@0xa28d5aa)>'
+# 20   0x0a28ec51: '<unknown (@0xa28ec51)>'
+# 21   0x0a28efc6: '<unknown (@0xa28efc6)>'
+# 22   0x08d11d57: '<unknown (@0x8d11d57)>'
+# 23   0x0a336cc7: '<unknown (@0xa336cc7)>'
+# 24   0x0a390f9c: '<unknown (@0xa390f9c)>'
+# 25   0x0a393e08: '<unknown (@0xa393e08)>'
+# 26   0x0a3501c8: '<unknown (@0xa3501c8)>'
+# 27   0x0a3504d5: '<unknown (@0xa3504d5)>'
+# 28   0x0a14eb75: '<unknown (@0xa14eb75)>'
+# 29   0x087cffdf: '<unknown (@0x87cffdf)>'
+# 30   0x0866ff68: '<unknown (@0x866ff68)>'
+# End of Stack Trace
+
+
+# Current time Sun Nov  6 18:53:52 2022
+# Program = vsim
+# Id = "2020.4_1"
+# Version = "2020.11"
+# Date = "Nov  6 2020"
+# Platform = "linux"
+# Signature = 5098354e56ad1a55ea86d1698a016d19
+# 0    0xf5a9c375: '/afs/unity.ncsu.edu/users/r/rsekani/bin/ece748/project2b/uvmf_template_output/project_benches/decode/sim/../../../verification_ip/environment_packages/decode_env_pkg/src/decode_env_configuration.svh:70'
+# 1    0xf5a928a0: '/afs/unity.ncsu.edu/users/r/rsekani/bin/ece748/project2b/uvmf_template_output/project_benches/decode/sim/../../../verification_ip/environment_packages/decode_env_pkg/src/decode_environment.svh:76'
+# 2    0xf55dc611: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_common_phases.svh:54'
+# 3    0xf55da751: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:111'
+# 4    0xf55d9cf7: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:78'
+# 5    0xf55da15e: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:95'
+# 6    0xf55da15e: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:95'
+# 7    0xf55cbf8d: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1156'
+# 8    0xf55caff7: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1847'
+# 9    0x09e4983d: '<unknown (@0x9e4983d)>'
+# 10   0x082d7848: '<unknown (@0x82d7848)>'
+# 11   0x08199e86: '<unknown (@0x8199e86)>'
+# 12   0x0830e7ed: '<unknown (@0x830e7ed)>'
+# 13   0x088026d8: '<unknown (@0x88026d8)>'
+# 14   0x088079a0: '<unknown (@0x88079a0)>'
+# 15   0x0880921f: '<unknown (@0x880921f)>'
+# 16   0x08ab1fd7: '<unknown (@0x8ab1fd7)>'
+# 17   0x0a28891b: '<unknown (@0xa28891b)>'
+# 18   0x0a287f0a: '<unknown (@0xa287f0a)>'
+# 19   0x0a28d493: '<unknown (@0xa28d493)>'
+# 20   0x0a28d5aa: '<unknown (@0xa28d5aa)>'
+# 21   0x0a28ec51: '<unknown (@0xa28ec51)>'
+# 22   0x0a28efc6: '<unknown (@0xa28efc6)>'
+# 23   0x08d11d57: '<unknown (@0x8d11d57)>'
+# 24   0x0a336cc7: '<unknown (@0xa336cc7)>'
+# 25   0x0a390f9c: '<unknown (@0xa390f9c)>'
+# 26   0x0a393e08: '<unknown (@0xa393e08)>'
+# 27   0x0a3501c8: '<unknown (@0xa3501c8)>'
+# 28   0x0a3504d5: '<unknown (@0xa3504d5)>'
+# 29   0x0a14eb75: '<unknown (@0xa14eb75)>'
+# 30   0x087cffdf: '<unknown (@0x87cffdf)>'
+# 31   0x0866ff68: '<unknown (@0x866ff68)>'
+# End of Stack Trace
+
+
+# Current time Sun Nov  6 18:59:07 2022
+# Program = vsim
+# Id = "2020.4_1"
+# Version = "2020.11"
+# Date = "Nov  6 2020"
+# Platform = "linux"
+# Signature = 5098354e56ad1a55ea86d1698a016d19
+# 0    0xf5abaea3: '/afs/unity.ncsu.edu/users/r/rsekani/bin/ece748/project2b/uvmf_template_output/project_benches/decode/sim/../../../verification_ip/environment_packages/decode_env_pkg/src/decode_environment.svh:67'
+# 1    0xf5605641: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_common_phases.svh:54'
+# 2    0xf5603781: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:111'
+# 3    0xf5602d27: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:78'
+# 4    0xf560318e: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:95'
+# 5    0xf560318e: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:95'
+# 6    0xf55f4fbd: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1156'
+# 7    0xf55f4027: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1847'
+# 8    0x09e4983d: '<unknown (@0x9e4983d)>'
+# 9    0x082d7848: '<unknown (@0x82d7848)>'
+# 10   0x08199e86: '<unknown (@0x8199e86)>'
+# 11   0x0830e7ed: '<unknown (@0x830e7ed)>'
+# 12   0x088026d8: '<unknown (@0x88026d8)>'
+# 13   0x088079a0: '<unknown (@0x88079a0)>'
+# 14   0x0880921f: '<unknown (@0x880921f)>'
+# 15   0x08ab1fd7: '<unknown (@0x8ab1fd7)>'
+# 16   0x0a28891b: '<unknown (@0xa28891b)>'
+# 17   0x0a287f0a: '<unknown (@0xa287f0a)>'
+# 18   0x0a28d493: '<unknown (@0xa28d493)>'
+# 19   0x0a28d5aa: '<unknown (@0xa28d5aa)>'
+# 20   0x0a28ec51: '<unknown (@0xa28ec51)>'
+# 21   0x0a28efc6: '<unknown (@0xa28efc6)>'
+# 22   0x08d11d57: '<unknown (@0x8d11d57)>'
+# 23   0x0a336cc7: '<unknown (@0xa336cc7)>'
+# 24   0x0a390f9c: '<unknown (@0xa390f9c)>'
+# 25   0x0a393e08: '<unknown (@0xa393e08)>'
+# 26   0x0a3501c8: '<unknown (@0xa3501c8)>'
+# 27   0x0a3504d5: '<unknown (@0xa3504d5)>'
+# 28   0x0a14eb75: '<unknown (@0xa14eb75)>'
+# 29   0x087cffdf: '<unknown (@0x87cffdf)>'
+# 30   0x0866ff68: '<unknown (@0x866ff68)>'
+# End of Stack Trace
+
+
+# Current time Sun Nov  6 19:02:46 2022
+# Program = vsim
+# Id = "2020.4_1"
+# Version = "2020.11"
+# Date = "Nov  6 2020"
+# Platform = "linux"
+# Signature = 5098354e56ad1a55ea86d1698a016d19
+# 0    0xf5a91ee3: '/afs/unity.ncsu.edu/users/r/rsekani/bin/ece748/project2b/uvmf_template_output/project_benches/decode/sim/../../../verification_ip/environment_packages/decode_env_pkg/src/decode_environment.svh:67'
+# 1    0xf55dc681: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_common_phases.svh:54'
+# 2    0xf55da7c1: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:111'
+# 3    0xf55d9d67: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:78'
+# 4    0xf55da1ce: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:95'
+# 5    0xf55da1ce: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:95'
+# 6    0xf55cbffd: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1156'
+# 7    0xf55cb067: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1847'
+# 8    0x09e4983d: '<unknown (@0x9e4983d)>'
+# 9    0x082d7848: '<unknown (@0x82d7848)>'
+# 10   0x08199e86: '<unknown (@0x8199e86)>'
+# 11   0x0830e7ed: '<unknown (@0x830e7ed)>'
+# 12   0x088026d8: '<unknown (@0x88026d8)>'
+# 13   0x088079a0: '<unknown (@0x88079a0)>'
+# 14   0x0880921f: '<unknown (@0x880921f)>'
+# 15   0x08ab1fd7: '<unknown (@0x8ab1fd7)>'
+# 16   0x0a28891b: '<unknown (@0xa28891b)>'
+# 17   0x0a287f0a: '<unknown (@0xa287f0a)>'
+# 18   0x0a28d493: '<unknown (@0xa28d493)>'
+# 19   0x0a28d5aa: '<unknown (@0xa28d5aa)>'
+# 20   0x0a28ec51: '<unknown (@0xa28ec51)>'
+# 21   0x0a28efc6: '<unknown (@0xa28efc6)>'
+# 22   0x08d11d57: '<unknown (@0x8d11d57)>'
+# 23   0x0a336cc7: '<unknown (@0xa336cc7)>'
+# 24   0x0a390f9c: '<unknown (@0xa390f9c)>'
+# 25   0x0a393e08: '<unknown (@0xa393e08)>'
+# 26   0x0a3501c8: '<unknown (@0xa3501c8)>'
+# 27   0x0a3504d5: '<unknown (@0xa3504d5)>'
+# 28   0x0a14eb75: '<unknown (@0xa14eb75)>'
+# 29   0x087cffdf: '<unknown (@0x87cffdf)>'
+# 30   0x0866ff68: '<unknown (@0x866ff68)>'
+# End of Stack Trace
+
+
+# Current time Sun Nov  6 19:43:44 2022
+# Program = vsim
+# Id = "2020.4_1"
+# Version = "2020.11"
+# Date = "Nov  6 2020"
+# Platform = "linux"
+# Signature = 5098354e56ad1a55ea86d1698a016d19
+# 0    0xf5afc855: '/afs/unity.ncsu.edu/users/r/rsekani/bin/ece748/project2b/uvmf_template_output/project_benches/decode/sim/../../../verification_ip/environment_packages/decode_env_pkg/src/decode_env_configuration.svh:70'
+# 1    0xf5af2d88: '/afs/unity.ncsu.edu/users/r/rsekani/bin/ece748/project2b/uvmf_template_output/project_benches/decode/sim/../../../verification_ip/environment_packages/decode_env_pkg/src/decode_environment.svh:84'
+# 2    0xf563c8d1: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_common_phases.svh:54'
+# 3    0xf563aa11: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:111'
+# 4    0xf5639fb7: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:78'
+# 5    0xf563a41e: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:95'
+# 6    0xf563a41e: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:95'
+# 7    0xf562c24d: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1156'
+# 8    0xf562b2b7: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1847'
+# 9    0x09e4983d: '<unknown (@0x9e4983d)>'
+# 10   0x082d7848: '<unknown (@0x82d7848)>'
+# 11   0x08199e86: '<unknown (@0x8199e86)>'
+# 12   0x0830e7ed: '<unknown (@0x830e7ed)>'
+# 13   0x088026d8: '<unknown (@0x88026d8)>'
+# 14   0x088079a0: '<unknown (@0x88079a0)>'
+# 15   0x0880921f: '<unknown (@0x880921f)>'
+# 16   0x08ab1fd7: '<unknown (@0x8ab1fd7)>'
+# 17   0x0a28891b: '<unknown (@0xa28891b)>'
+# 18   0x0a287f0a: '<unknown (@0xa287f0a)>'
+# 19   0x0a28d493: '<unknown (@0xa28d493)>'
+# 20   0x0a28d5aa: '<unknown (@0xa28d5aa)>'
+# 21   0x0a28ec51: '<unknown (@0xa28ec51)>'
+# 22   0x0a28efc6: '<unknown (@0xa28efc6)>'
+# 23   0x08d11d57: '<unknown (@0x8d11d57)>'
+# 24   0x0a336cc7: '<unknown (@0xa336cc7)>'
+# 25   0x0a390f9c: '<unknown (@0xa390f9c)>'
+# 26   0x0a393e08: '<unknown (@0xa393e08)>'
+# 27   0x0a3501c8: '<unknown (@0xa3501c8)>'
+# 28   0x0a3504d5: '<unknown (@0xa3504d5)>'
+# 29   0x0a14eb75: '<unknown (@0xa14eb75)>'
+# 30   0x087cffdf: '<unknown (@0x87cffdf)>'
+# 31   0x0866ff68: '<unknown (@0x866ff68)>'
+# End of Stack Trace
+
+
+# Current time Sun Nov  6 19:52:30 2022
+# Program = vsim
+# Id = "2020.4_1"
+# Version = "2020.11"
+# Date = "Nov  6 2020"
+# Platform = "linux"
+# Signature = 5098354e56ad1a55ea86d1698a016d19
+# 0    0xf5abaea3: '/afs/unity.ncsu.edu/users/r/rsekani/bin/ece748/project2b/uvmf_template_output/project_benches/decode/sim/../../../verification_ip/environment_packages/decode_env_pkg/src/decode_environment.svh:65'
+# 1    0xf5605641: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_common_phases.svh:54'
+# 2    0xf5603781: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:111'
+# 3    0xf5602d27: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:78'
+# 4    0xf560318e: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:95'
+# 5    0xf560318e: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:95'
+# 6    0xf55f4fbd: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1156'
+# 7    0xf55f4027: '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1847'
+# 8    0x09e4983d: '<unknown (@0x9e4983d)>'
+# 9    0x082d7848: '<unknown (@0x82d7848)>'
+# 10   0x08199e86: '<unknown (@0x8199e86)>'
+# 11   0x0830e7ed: '<unknown (@0x830e7ed)>'
+# 12   0x088026d8: '<unknown (@0x88026d8)>'
+# 13   0x088079a0: '<unknown (@0x88079a0)>'
+# 14   0x0880921f: '<unknown (@0x880921f)>'
+# 15   0x08ab1fd7: '<unknown (@0x8ab1fd7)>'
+# 16   0x0a28891b: '<unknown (@0xa28891b)>'
+# 17   0x0a287f0a: '<unknown (@0xa287f0a)>'
+# 18   0x0a28d493: '<unknown (@0xa28d493)>'
+# 19   0x0a28d5aa: '<unknown (@0xa28d5aa)>'
+# 20   0x0a28ec51: '<unknown (@0xa28ec51)>'
+# 21   0x0a28efc6: '<unknown (@0xa28efc6)>'
+# 22   0x08d11d57: '<unknown (@0x8d11d57)>'
+# 23   0x0a336cc7: '<unknown (@0xa336cc7)>'
+# 24   0x0a390f9c: '<unknown (@0xa390f9c)>'
+# 25   0x0a393e08: '<unknown (@0xa393e08)>'
+# 26   0x0a3501c8: '<unknown (@0xa3501c8)>'
+# 27   0x0a3504d5: '<unknown (@0xa3504d5)>'
+# 28   0x0a14eb75: '<unknown (@0xa14eb75)>'
+# 29   0x087cffdf: '<unknown (@0x87cffdf)>'
+# 30   0x0866ff68: '<unknown (@0x866ff68)>'
+# End of Stack Trace
+
+

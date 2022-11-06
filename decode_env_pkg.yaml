@@ -1,0 +1,27 @@
+uvmf:
+  environments:
+    "decode":
+      agents:
+        - initiator_responder: "INITIATOR"
+          name: "decode_in_agent"
+          type: "decode_in"
+        - initiator_responder: "RESPONDER"
+          name: "decode_out_agent"
+          type: "decode_out"
+      analysis_components:
+        - name: "decode_pred"
+          type: "decode_predictor"
+      scoreboards:
+        - name: "decode_scoreboard"
+          sb_type: "uvmf_in_order_race_scoreboard"
+          trans_type: "decode_out_transaction"
+      tlm_connections:
+        - driver: "decode_in_agent.monitored_ap"
+          receiver: "decode_pred.decode_pred_ae"
+        - driver: "decode_out_agent.monitored_ap"
+          receiver: "decode_scoreboard.actual_analysis_export"
+        - driver: "decode_pred.ap_pred"
+          receiver: "decode_scoreboard.expected_analysis_export"
+
+# Run command
+#$UVMF_HOME/scripts/yaml2uvmf.py decode_env_pkg.yaml decode_in_if.yaml decode_out_if.yaml predictor_components.yaml 
